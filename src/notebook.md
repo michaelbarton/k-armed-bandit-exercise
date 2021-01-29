@@ -1,12 +1,16 @@
 ---
 jupyter:
+  blog:
+    date: 2021-01-04 00:00 GMT
+    kind: article
+    title: Different kinds of multi armed bandits in python.
   jupytext:
     formats: ipynb,md
     notebook_metadata_filter: blog
     text_representation:
       extension: .md
       format_name: markdown
-      format_version: "1.2"
+      format_version: '1.2'
       jupytext_version: 1.9.1
   kernelspec:
     display_name: Python 3
